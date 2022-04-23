@@ -1,4 +1,4 @@
-## Hi there! I'm Gabriel Frasão, a Front-end student.
+## Hi there! I'm Gabriel Frasão • Front-end student.
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=slycooper-n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
