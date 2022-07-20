@@ -17,6 +17,7 @@
 
 <div style="display: inline_block"><br>
   <p>I'm learning:</p>
+  <img align="center" alt="Gabe-PWA" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" />
   <img align="center" alt="Gabe-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Gabe-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
