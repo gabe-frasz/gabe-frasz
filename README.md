@@ -24,6 +24,7 @@
 
 <div style="display: inline_block"><br>
   <p>I'm interested in:</p>
+  <img align="center" alt="Gabe-StrapiCMS" height="30" width="80" src="https://strapi.io/assets/strapi-logo-light.svg" />
   <img align="center" alt="Gabe-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img align="center" alt="Gabe-Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="Gabe-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
