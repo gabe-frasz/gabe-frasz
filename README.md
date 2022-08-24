@@ -7,6 +7,8 @@
   
 <div style="display: inline_block"><br>
   <p>I have some experience in:</p>
+  
+  <img align="center" alt="Gabe-PWA" height="25" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" />
   <img align="center" alt="Gabe-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Gabe-Cypress" height="30" width="40" src="https://docs.cypress.io/_nuxt/img/cypress-logo.a2e1292.svg" />
   <img align="center" alt="Gabe-Vitest" height="30" width="40" src="https://vitest.dev/logo-shadow.svg" />
@@ -18,14 +20,13 @@
 
 <div style="display: inline_block"><br>
   <p>I'm learning:</p>
-  <img align="center" alt="Gabe-PWA" height="25" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" />
   <img align="center" alt="Gabe-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img align="center" alt="Gabe-StrapiCMS" height="30" width="80" src="https://strapi.io/assets/strapi-logo-light.svg" />
   <img align="center" alt="Gabe-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 <div style="display: inline_block"><br>
   <p>I'm interested in:</p>
-  <img align="center" alt="Gabe-StrapiCMS" height="30" width="80" src="https://strapi.io/assets/strapi-logo-light.svg" />
   <img align="center" alt="Gabe-Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="Gabe-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Gabe-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
