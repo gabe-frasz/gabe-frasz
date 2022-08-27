@@ -23,6 +23,7 @@
   <img align="center" alt="Gabe-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img align="center" alt="Gabe-Hygraph" height="30" width="30" src="https://media.glassdoor.com/sql/2402254/graphcms-squarelogo-1585291904324.png" />
   <img align="center" alt="Gabe-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Gabe-Bash" height="30" width="30" src="https://keestalkstech.com/wp-content/uploads/2019/08/bash-logo-300x300.png" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -31,7 +32,8 @@
   <img align="center" alt="Gabe-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Gabe-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Gabe-Prisma" height="30" width="30" src="https://storage.googleapis.com/zenn-user-upload/topics/d07488226b.jpeg" />
-  <img align="center" alt="Gabe-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
+  <img align="center" alt="Gabe-Storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
+  <img align="center" alt="Gabe-Docker" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 </div>
   
 ##
