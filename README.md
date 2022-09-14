@@ -5,7 +5,6 @@
 ### I have some experience in:
 
 <div style="display: inline_block">
-  <img align="center" alt="Gabe-PWA" height="25" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" />
   <img align="center" alt="Gabe-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Gabe-Cypress" height="30" width="30" src="http://images.ctfassets.net/czwjnyf8a9ri/5jZlu3VJwWQC986YRqBY8M/29ce530fee9c62a09fc4f15b33076cde/cypress-1024x553.png" />
   <img align="center" alt="Gabe-Vitest" height="30" width="40" src="https://vitest.dev/logo-shadow.svg" />
