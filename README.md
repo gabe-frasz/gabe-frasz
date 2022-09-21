@@ -5,6 +5,7 @@
 ### I have some experience in:
 
 <div style="display: inline_block">
+  <img align="center" alt="Gabe-Hygraph" height="30" width="30" src="https://media.glassdoor.com/sql/2402254/graphcms-squarelogo-1585291904324.png" />
   <img align="center" alt="Gabe-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Gabe-Cypress" height="30" width="30" src="http://images.ctfassets.net/czwjnyf8a9ri/5jZlu3VJwWQC986YRqBY8M/29ce530fee9c62a09fc4f15b33076cde/cypress-1024x553.png" />
   <img align="center" alt="Gabe-Vitest" height="30" width="40" src="https://vitest.dev/logo-shadow.svg" />
@@ -17,7 +18,6 @@
 ### I'm learning:
 
 <div style="display: inline_block">
-  <img align="center" alt="Gabe-Hygraph" height="30" width="30" src="https://media.glassdoor.com/sql/2402254/graphcms-squarelogo-1585291904324.png" />
   <img align="center" alt="Gabe-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img align="center" alt="Gabe-Bash" height="30" width="30" src="https://keestalkstech.com/wp-content/uploads/2019/08/bash-logo-300x300.png" />
 </div>
