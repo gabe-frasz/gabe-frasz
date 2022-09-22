@@ -1,4 +1,4 @@
-# Hi there! I'm Gabriel Frasão • Front-end student :muscle:
+# Hi there! I'm Gabriel Frasão • Web dev student :muscle:
 
 ## :brain: My stack
 
@@ -19,13 +19,13 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Gabe-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img align="center" alt="Gabe-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Gabe-Bash" height="30" width="30" src="https://keestalkstech.com/wp-content/uploads/2019/08/bash-logo-300x300.png" />
 </div>
 
 ### I'm interested in:
 
-<div style="display: inline_block">  
-  <img align="center" alt="Gabe-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<div style="display: inline_block">
   <img align="center" alt="Gabe-Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="Gabe-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Gabe-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
