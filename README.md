@@ -11,9 +11,9 @@
   <img align="center" alt="Gabe-Cypress" height="30" width="30" src="http://images.ctfassets.net/czwjnyf8a9ri/5jZlu3VJwWQC986YRqBY8M/29ce530fee9c62a09fc4f15b33076cde/cypress-1024x553.png" />
   <img align="center" alt="Gabe-Vitest" height="30" width="40" src="https://vitest.dev/logo-shadow.svg" />
   <img align="center" alt="Gabe-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Gabe-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Gabe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Gabe-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Gabe-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
 ### I'm learning:
