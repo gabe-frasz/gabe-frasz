@@ -1,4 +1,6 @@
-# Hi there! I'm Gabriel Frasão • Web dev student :muscle:
+## Hi there! I'm Gabriel Frasão • Web dev student :muscle:
+
+<!-- I'm a student of web development (both front-end and back-end) -->
 
 ## :brain: My stack
 
