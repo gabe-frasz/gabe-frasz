@@ -2,7 +2,7 @@
 
 <!-- I'm a student of web development (both front-end and back-end) -->
 
-## :brain: My stack
+## :brain: My tech stack
 
 ### I have some experience in:
 
