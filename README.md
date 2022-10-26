@@ -37,7 +37,6 @@
   <a href="https://storybook.js.org"><img align="center" alt="Storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" /></a>
   <a href="https://docker.com"><img align="center" alt="Docker" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" /></a>
   <a href="https://kubernetes.io"><img align="center" alt="Kubertenes" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></a>
-  <a href="https://soliditylang.org/"><img align="center" alt="Solidity" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" /></a>
 </div>
 
 <br />
