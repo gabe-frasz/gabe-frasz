@@ -16,13 +16,12 @@
   <a href="https://beta.reactjs.org/"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
   <a href="https://tailwindcss.com"><img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
   <a href="https://www.typescriptlang.org/"><img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
-  <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html"><img align="center" alt="Bash" height="30" width="30" src="https://keestalkstech.com/wp-content/uploads/2019/08/bash-logo-300x300.png" /></a>
+  <a href="https://nodejs.org"><img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 </div>
 
 ### I'm learning:
 
 <div>
-  <a href="https://nodejs.org"><img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
   <a href="https://prisma.io"><img align="center" alt="Prisma" height="30" width="30" src="https://storage.googleapis.com/zenn-user-upload/topics/d07488226b.jpeg" /></a>
 </div>
 
