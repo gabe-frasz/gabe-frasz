@@ -21,7 +21,6 @@
 ### I'm learning:
 
 <div>
-  <a href="https://storybook.js.org"><img align="center" alt="Storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" /></a>
   <a href="https://prisma.io"><img align="center" alt="Prisma" height="30" width="30" src="https://storage.googleapis.com/zenn-user-upload/topics/d07488226b.jpeg" /></a>
 </div>
 
