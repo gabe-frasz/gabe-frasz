@@ -7,7 +7,6 @@
 ### I have some experience in:
 
 <div>
-  <a href="https://hygraph.com"><img align="center" alt="Hygraph" height="30" width="30" src="https://media.glassdoor.com/sql/2402254/graphcms-squarelogo-1585291904324.png" /></a>
   <a href="https://graphql.org/"><img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
   <a href="https://firebase.google.com/"><img align="center" alt="Firebase" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></a>
   <a href="https://cypress.io"><img align="center" alt="Cypress" height="30" width="30" src="http://images.ctfassets.net/czwjnyf8a9ri/5jZlu3VJwWQC986YRqBY8M/29ce530fee9c62a09fc4f15b33076cde/cypress-1024x553.png" /></a>
