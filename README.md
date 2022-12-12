@@ -22,13 +22,13 @@
 
 <div>
   <a href="https://prisma.io"><img align="center" alt="Prisma" height="30" width="30" src="https://storage.googleapis.com/zenn-user-upload/topics/d07488226b.jpeg" /></a>
+  <a href="https://planetscale.com"><img align="center" alt="Planetscale" height="30" width="30" src="https://pbs.twimg.com/profile_images/1504919223168077836/RSsCSpKf_400x400.jpg" /></a>
 </div>
 
 ### I'm interested in:
 
 <div>
   <a href="https://nestjs.com"><img align="center" alt="NestJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></a>
-  <a href="https://planetscale.com"><img align="center" alt="Planetscale" height="30" width="30" src="https://pbs.twimg.com/profile_images/1504919223168077836/RSsCSpKf_400x400.jpg" /></a>
   <a href="https://redis.io"><img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></a>
   <a href="https://docker.com"><img align="center" alt="Docker" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" /></a>
   <a href="https://kubernetes.io"><img align="center" alt="Kubertenes" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></a>
