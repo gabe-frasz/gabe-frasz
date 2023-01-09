@@ -22,7 +22,6 @@
 
 <div>
   <a href="https://prisma.io"><img align="center" alt="Prisma" height="30" width="30" src="https://storage.googleapis.com/zenn-user-upload/topics/d07488226b.jpeg" /></a>
-  <a href="https://planetscale.com"><img align="center" alt="Planetscale" height="30" width="30" src="https://pbs.twimg.com/profile_images/1504919223168077836/RSsCSpKf_400x400.jpg" /></a>
 </div>
 
 ### I'm interested in:
