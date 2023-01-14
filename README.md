@@ -7,6 +7,7 @@
 ### I have some experience in:
 
 <div>
+  <a href="https://prisma.io"><img align="center" alt="Prisma" height="30" width="30" src="https://storage.googleapis.com/zenn-user-upload/topics/d07488226b.jpeg" /></a>
   <a href="https://graphql.org/"><img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
   <a href="https://firebase.google.com/"><img align="center" alt="Firebase" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></a>
   <a href="https://cypress.io"><img align="center" alt="Cypress" height="30" width="30" src="http://images.ctfassets.net/czwjnyf8a9ri/5jZlu3VJwWQC986YRqBY8M/29ce530fee9c62a09fc4f15b33076cde/cypress-1024x553.png" /></a>
@@ -18,11 +19,11 @@
   <a href="https://nodejs.org"><img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 </div>
 
-### I'm learning:
+<!-- ### I'm learning:
 
 <div>
-  <a href="https://prisma.io"><img align="center" alt="Prisma" height="30" width="30" src="https://storage.googleapis.com/zenn-user-upload/topics/d07488226b.jpeg" /></a>
-</div>
+  
+</div> -->
 
 ### I'm interested in:
 
