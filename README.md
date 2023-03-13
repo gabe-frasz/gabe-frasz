@@ -1,6 +1,6 @@
 ## Hi there! I'm Gabriel Frasão • Web dev student :muscle:
 
-Just a non-ordinary, ambitious and self-taught web dev student.
+Just a non-ordinary, ambitious and self-taught web dev student discovering the very best in tech. On the way to full-stack.
 
 ## :brain: My tech stack
 
