@@ -14,7 +14,6 @@ Just a non-ordinary, ambitious and self-taught web dev student.
   <a href="https://graphql.org/"><img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
   <a href="https://beta.reactjs.org/"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
   <a href="https://nextjs.org"><img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
-  <a href="https://nestjs.com"><img align="center" alt="NestJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></a>
 </div>
 
 #### Miscellaneous:
