@@ -14,6 +14,7 @@ Just a non-ordinary, ambitious and self-taught web dev student discovering the v
   <a href="https://graphql.org/"><img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
   <a href="https://beta.reactjs.org/"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
   <a href="https://nextjs.org"><img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
+  <a href="https://astro.build"><img align="center" alt="Astro" height="30" width="30" src="https://astro.build/assets/press/logomark-dark.svg" /></a>
 </div>
 
 #### Miscellaneous:
@@ -29,7 +30,6 @@ Just a non-ordinary, ambitious and self-taught web dev student discovering the v
 ### I'm interested in:
 
 <div>
-  <a href="https://astro.build"><img align="center" alt="Astro" height="30" width="30" src="https://astro.build/assets/press/logomark-dark.svg" /></a>
   <a href="https://qwik.builder.io"><img align="center" alt="Qwik" height="30" width="30" src="https://seeklogo.com/images/Q/qwik-logo-4D2D8CA440-seeklogo.com.png" /></a>
   <a href="https://www.solidjs.com/"><img align="center" alt="SolidJS" height="30" width="30" src="https://www.solidjs.com/assets/logo-123b04bc.svg" /></a>
   <a href="https://expo.dev"><img align="center" alt="Expo" height="30" width="30" src="https://upplabs.com/wp-content/uploads/2020/06/expo-logo-1.png" /></a>
