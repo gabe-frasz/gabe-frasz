@@ -16,6 +16,7 @@ Every day is a great day to discover the very best in tech.
   <a href="https://graphql.org/"><img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
   <a href="https://beta.reactjs.org/"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
   <a href="https://nextjs.org"><img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
+  <a href="https://www.solidjs.com/"><img align="center" alt="SolidJS" height="30" width="30" src="https://www.solidjs.com/assets/logo-123b04bc.svg" /></a>
   <a href="https://astro.build"><img align="center" alt="Astro" height="30" width="30" src="https://astro.build/assets/press/logomark-dark.svg" /></a>
 </div>
 
@@ -33,7 +34,6 @@ Every day is a great day to discover the very best in tech.
 
 <div>
   <a href="https://qwik.builder.io"><img align="center" alt="Qwik" height="30" width="30" src="https://seeklogo.com/images/Q/qwik-logo-4D2D8CA440-seeklogo.com.png" /></a>
-  <a href="https://www.solidjs.com/"><img align="center" alt="SolidJS" height="30" width="30" src="https://www.solidjs.com/assets/logo-123b04bc.svg" /></a>
   <a href="https://expo.dev"><img align="center" alt="Expo" height="30" width="30" src="https://upplabs.com/wp-content/uploads/2020/06/expo-logo-1.png" /></a>
   <a href="https://deno.land"><img align="center" alt="Deno" height="30" width="30" src="https://denostatus.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fsup%2Fimage%2Fupload%2Fv1646750532%2Fbntmecdmmdnu1rg1rw0w.png&w=1920&q=75" /></a>
   <a href="https://redis.io"><img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></a>
