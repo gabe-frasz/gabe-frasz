@@ -31,7 +31,7 @@ Every day is a great day to discover the very best in tech.
 ### I'm interested in:
 
 <div>
-  <a href="https://qwik.builder.io"><img align="center" alt="Qwik" height="30" width="30" src="https://seeklogo.com/images/Q/qwik-logo-4D2D8CA440-seeklogo.com.png" /></a>
+  <a href="https://qwik.builder.io"><img align="center" alt="Qwik" height="30" width="30" src="https://qwik.builder.io/logos/qwik-logo.svg" /></a>
   <a href="https://expo.dev"><img align="center" alt="Expo" height="30" width="30" src="https://upplabs.com/wp-content/uploads/2020/06/expo-logo-1.png" /></a>
   <a href="https://deno.land"><img align="center" alt="Deno" height="30" width="30" src="https://denostatus.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fsup%2Fimage%2Fupload%2Fv1646750532%2Fbntmecdmmdnu1rg1rw0w.png&w=1920&q=75" /></a>
   <a href="https://docker.com"><img align="center" alt="Docker" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" /></a>
