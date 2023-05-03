@@ -2,8 +2,6 @@
 
 Just a non-ordinary, ambitious and self-taught web dev student.
 
-Every day is a great day to discover the very best in tech.
-
 ## :brain: My tech stack
 
 ### I have some experience in:
