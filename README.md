@@ -2,6 +2,8 @@
 
 Just a non-ordinary, ambitious and self-taught web dev student.
 
+Take a look at what I've been up to [right here](https://github.com/users/gabe-frasz/projects/3/views/1).
+
 ## :brain: My tech stack
 
 ### I have some experience in:
