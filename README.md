@@ -41,7 +41,7 @@ Take a look at what I've been up to [right here](https://github.com/users/gabe-f
 
 ## :gear: Github Analytics
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabe-frasz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabe-frasz&show_icons=true&theme=dracula&include_all_commits=true)
 
 ![My GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-frasz&layout=compact&langs_count=7&theme=dracula)
   
@@ -52,7 +52,3 @@ Get in touch with me on:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabe_frasz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielvitor.frasao@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vs-frasao)
-
-## :snake: Snake animation
-  
-![Snake animation](https://github.com/gabe-frasz/gabe-frasz/blob/output/github-contribution-grid-snake.svg)
