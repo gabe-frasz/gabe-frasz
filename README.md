@@ -8,22 +8,19 @@ Take a look at what I've been up to [right here](https://github.com/users/gabe-f
 
 ### I have some experience in:
 
-#### Languages & Frameworks:
-
 <div>
   <a href="https://nodejs.org"><img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
   <a href="https://www.typescriptlang.org/"><img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
-  <a href="https://beta.reactjs.org/"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
+  <a href="https://react.dev/"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
   <a href="https://nextjs.org"><img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
   <a href="https://astro.build"><img align="center" alt="Astro" height="30" width="30" src="https://astro.build/assets/press/logomark-dark.svg" /></a>
 </div>
 
-#### Miscellaneous:
+<br />
 
 <div>
   <a href="https://tailwindcss.com"><img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>  
   <a href="https://vitest.dev"><img align="center" alt="Vitest" height="30" width="40" src="https://vitest.dev/logo-shadow.svg" /></a>
-  <a href="https://cypress.io"><img align="center" alt="Cypress" height="30" width="30" src="http://images.ctfassets.net/czwjnyf8a9ri/5jZlu3VJwWQC986YRqBY8M/29ce530fee9c62a09fc4f15b33076cde/cypress-1024x553.png" /></a>
   <a href="https://prisma.io"><img align="center" alt="Prisma" height="30" width="30" src="https://storage.googleapis.com/zenn-user-upload/topics/d07488226b.jpeg" /></a>
 </div>
 
