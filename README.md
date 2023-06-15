@@ -40,7 +40,7 @@ Take a look at what I've been up to [right here](https://github.com/users/gabe-f
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabe-frasz&show_icons=true&theme=dracula&hide_rank=true)
 
-![My GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-frasz&layout=compact&langs_count=7&theme=dracula)
+![My GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-frasz&layout=compact&langs_count=8&theme=dracula)
   
 ## :phone: Contact
 
