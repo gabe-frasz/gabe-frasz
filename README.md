@@ -36,7 +36,7 @@ Take a look at what I've been up to [right here](https://github.com/users/gabe-f
 
 <br />
 
-## :gear: Github Analytics
+## :gear: GitHub Analytics
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabe-frasz&show_icons=true&theme=dracula&hide_rank=true)
 
