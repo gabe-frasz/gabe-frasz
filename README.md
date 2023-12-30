@@ -1,4 +1,4 @@
-## Hi there! I'm Gabriel Frasão • Web dev student :muscle:
+## Hi there! I'm Gabriel Frasão • Full-Stack Web dev :muscle:
 
 Just a non-ordinary, ambitious and self-taught web dev student.
 
