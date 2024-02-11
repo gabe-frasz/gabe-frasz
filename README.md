@@ -19,7 +19,7 @@ Take a look at what I've been up to [right here](https://github.com/users/gabe-f
 <br />
 
 <div>
-  <a href="https://tailwindcss.com"><img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>  
+  <a href="https://tailwindcss.com"><img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>          
   <a href="https://vitest.dev"><img align="center" alt="Vitest" height="30" width="40" src="https://vitest.dev/logo-shadow.svg" /></a>
   <a href="https://prisma.io"><img align="center" alt="Prisma" height="30" width="30" src="https://storage.googleapis.com/zenn-user-upload/topics/d07488226b.jpeg" /></a>
 </div>
@@ -27,9 +27,7 @@ Take a look at what I've been up to [right here](https://github.com/users/gabe-f
 ### I'm interested in:
 
 <div>
-  <a href="https://www.solidjs.com/"><img align="center" alt="Expo" height="30" width="30" src="https://www.solidjs.com/assets/logo-123b04bc.svg" /></a>
   <a href="https://expo.dev"><img align="center" alt="Expo" height="30" width="30" src="https://upplabs.com/wp-content/uploads/2020/06/expo-logo-1.png" /></a>
-  <a href="https://deno.land"><img align="center" alt="Deno" height="30" width="30" src="https://denostatus.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fsup%2Fimage%2Fupload%2Fv1646750532%2Fbntmecdmmdnu1rg1rw0w.png&w=1920&q=75" /></a>
   <a href="https://docker.com"><img align="center" alt="Docker" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" /></a>
   <a href="https://golang.google.cn/"><img align="center" alt="GOLang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /></a>
 </div>
