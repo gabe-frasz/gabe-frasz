@@ -26,6 +26,8 @@ Take a look at what I've been up to [right here](https://github.com/users/gabe-f
 <a href="https://www.postgresql.org/"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></a>
 <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <a href="https://ziglang.org/"><img align="center" alt="Zig" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" /></a>
+<a href="https://gleam.run/"><img align="center" alt="Gleam" height="30" width="30" src="https://gleam.run/images/lucy/lucy.svg"/></a>
+
 
 ## :gear: GitHub Analytics
 
