@@ -1,4 +1,4 @@
-## Hi there! I'm Gabriel Frasão • Full-Stack Web dev :muscle:
+## I'm Gabriel Frasão • Full-Stack Web dev :muscle:
 
 Just a non-ordinary, ambitious and self-taught web dev student.
 
@@ -9,11 +9,20 @@ Take a look at what I've been up to [right here](https://github.com/users/gabe-f
 ![My tech stack](./.github/techstack.gif)
 > Video made with [Remotion](https://remotion.dev) in [this repo](https://github.com/gabe-frasz/onlytechstacks)
 
+<details>
+  <summary>Text version</summary>
+
+  - **Languages**: TypeScript, JavaScript, Go
+  - **Frameworks**: React, Next.js, Astro
+  - **Tools**: Bun, Tailwind, Vitest, Cypress, Docker 
+  - **DB**: PostgreSQL
+</details>
+
 ## :gear: GitHub Analytics
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabe-frasz&show_icons=true&theme=dracula&hide_rank=true&include_all_commits=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabe-frasz&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true)
 
-![My GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-frasz&layout=compact&langs_count=8&theme=dracula)
+![My GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-frasz&layout=compact&langs_count=8&theme=dark)
 
 ## :phone: Contact
 
