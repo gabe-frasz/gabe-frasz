@@ -22,7 +22,7 @@ Take a look at what I've been up to [right here](https://github.com/users/gabe-f
 
 ![My GitHub Stats](./profile/stats.svg)
 
-![My GitHub Top Langs](./profile/top-langs.svg/api/top-langs/)
+![My GitHub Top Langs](./profile/top-langs.svg)
 
 ## :phone: Contact
 
