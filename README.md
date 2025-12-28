@@ -20,9 +20,9 @@ Take a look at what I've been up to [right here](https://github.com/users/gabe-f
 
 ## :gear: GitHub Analytics
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabe-frasz&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true)
+![My GitHub Stats](./profile/stats.svg)
 
-![My GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-frasz&layout=compact&langs_count=8&theme=dark)
+![My GitHub Top Langs](./profile/top-langs.svg/api/top-langs/)
 
 ## :phone: Contact
 
