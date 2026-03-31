@@ -1,6 +1,6 @@
-## I'm Gabriel Frasão • Full-Stack Web dev :muscle:
+## I'm Gabriel Frasão • Full-Stack Dev :muscle:
 
-Just a non-ordinary, ambitious and self-taught web dev student.
+Non-ordinary, ambitious and self-taught full-stack dev with 5+ years of experience. Also a home lab enthusiast :house:.
 
 Take a look at what I've been up to [right here](https://github.com/users/gabe-frasz/projects/3/views/1).
 
@@ -12,10 +12,11 @@ Take a look at what I've been up to [right here](https://github.com/users/gabe-f
 <details>
   <summary>Text version</summary>
 
-  - **Languages**: TypeScript, JavaScript, Go
+  - **Languages**: TypeScript, Go, C, Python
   - **Frameworks**: React, Next.js, Astro
-  - **Tools**: Bun, Tailwind, Vitest, Cypress, Docker 
+  - **Infra**: AWS, Terraform, Docker
   - **DB**: PostgreSQL
+  - **Patterns**: Clean Architecture, SOLID
 </details>
 
 ## :gear: GitHub Analytics
