@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gabriel Fras&#227;o's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 2157, Total PRs: 94, Total Issues: 66, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  : 2159, Total PRs: 94, Total Issues: 66, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 133.20740957628024;
+        stroke-dashoffset: 133.19439825591712;
       }
     }
   
