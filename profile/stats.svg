@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Gabriel Fras&#227;o&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 2187, Total PRs: 100, Total Issues: 65, Contributed to (last year): 8</desc>
+        <title id="titleId">Gabriel Fras&#227;o&#39;s GitHub Stats, Rank: B+</title>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  : 2191, Total PRs: 100, Total Issues: 65, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 125.72778302975576;
+        stroke-dashoffset: 121.36467929940993;
       }
     }
   
